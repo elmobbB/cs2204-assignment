@@ -1,0 +1,22 @@
+#menu {
+    display: none;
+}
+
+#total {
+    text-align: right;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+    color: black
+}
+
+footer {
+    display: none;
+}
+
+#table0 {
+    margin: 0 auto;
+    text-align: center;
+}

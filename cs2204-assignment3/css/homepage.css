@@ -1,0 +1,48 @@
+#header {
+  text-align: center;
+}
+
+#div1 {
+  display: inline-block;
+}
+
+#header_text {
+  display: inline-block;
+}
+
+#welcome {
+  text-align: center;
+}
+
+#info {
+  float: left;
+  width: 38%;
+}
+
+#promotion_information {
+  margin-left: 38%;
+}
+
+#Video1 {
+  width: 100%;
+}
+
+#form {
+  margin-left: 38%;
+}
+
+.form_content label {
+  display: inline-block;
+  width: 25%;
+  margin-left: 30%;
+}
+
+#reservation_form input[type="submit"],
+#reservation_form input[type="reset"] {
+  width: 40%;
+  margin-left: 6.5%;
+  text-align: center;
+}
+.submit-message {
+  text-align: center;
+}
